@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Moumi1202
-- 👀 I’m interested in front end mainly.
+- 👀 I’m interested in front end designing mainly.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... send me email "moumita.hait2016@gmail.com"
 
 <!---
